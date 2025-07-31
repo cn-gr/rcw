@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded",function(){let e=["ka","en"],t=docu
                   <div style="margin: 10px 0;">
                     <button class="rcw-button" id="rcw-button-submit" style="width: 100%;" data-rcw-translation-key="waiting_call">${d[t].waiting_call}</button>
                   </div>
-                  <div class="rcw-choose-date" style="text-align: center;margin: 10px 0;text-decoration: underline; cursor: pointer;"
+                  <div class="rcw-choose-date" style="text-align: center;margin: 10px 0;text-decoration: underline; cursor: pointer; font-weight: bold;"
                   data-rcw-translation-key="choose_time"
                   >
                     ${d[t].choose_time}
